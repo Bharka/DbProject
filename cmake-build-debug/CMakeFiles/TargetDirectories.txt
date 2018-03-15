@@ -1,0 +1,3 @@
+/home/dba_bharka/Desktop/DbProject2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dba_bharka/Desktop/DbProject2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dba_bharka/Desktop/DbProject2/cmake-build-debug/CMakeFiles/DbProject2.dir

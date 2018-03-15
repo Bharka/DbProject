@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DbProject2.dir/main.cpp.o  -o DbProject2 
